@@ -9,3 +9,8 @@ print("hello world python")
 sdsdhbhsbdgjdsghj
 
 """
+
+
+
+# for  run this  any core pything file in terminal   wirte this  
+# pyhton + file  name  like  --->    python first.py
